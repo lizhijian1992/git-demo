@@ -19,3 +19,4 @@ hello guigu
 hello guigu
 hello guigu --master test
 hot-fix 修改test | hot-fix test
+测试下远程修改内容,本地拉取
